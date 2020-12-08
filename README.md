@@ -1,1 +1,1 @@
-Just `docker-compose up`
+Just `docker-compose up --remove-orphans`
