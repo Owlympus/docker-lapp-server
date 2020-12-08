@@ -1,0 +1,1 @@
+Just `docker-compose up`
